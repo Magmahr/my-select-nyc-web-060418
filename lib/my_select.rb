@@ -8,4 +8,5 @@ def my_select(collection)
     end
   count += 1    
   end
+  selected
 end
